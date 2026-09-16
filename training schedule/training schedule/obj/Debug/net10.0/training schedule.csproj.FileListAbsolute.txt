@@ -1,0 +1,49 @@
+D:\Gourny .Net\Learn c#\training schedule\training schedule\bin\Debug\net10.0\training schedule.exe
+D:\Gourny .Net\Learn c#\training schedule\training schedule\bin\Debug\net10.0\training schedule.deps.json
+D:\Gourny .Net\Learn c#\training schedule\training schedule\bin\Debug\net10.0\training schedule.runtimeconfig.json
+D:\Gourny .Net\Learn c#\training schedule\training schedule\bin\Debug\net10.0\training schedule.dll
+D:\Gourny .Net\Learn c#\training schedule\training schedule\bin\Debug\net10.0\training schedule.pdb
+D:\Gourny .Net\Learn c#\training schedule\training schedule\obj\Debug\net10.0\training schedule.GeneratedMSBuildEditorConfig.editorconfig
+D:\Gourny .Net\Learn c#\training schedule\training schedule\obj\Debug\net10.0\training schedule.AssemblyInfoInputs.cache
+D:\Gourny .Net\Learn c#\training schedule\training schedule\obj\Debug\net10.0\training schedule.AssemblyInfo.cs
+D:\Gourny .Net\Learn c#\training schedule\training schedule\obj\Debug\net10.0\training schedule.csproj.CoreCompileInputs.cache
+D:\Gourny .Net\Learn c#\training schedule\training schedule\obj\Debug\net10.0\training schedule.dll
+D:\Gourny .Net\Learn c#\training schedule\training schedule\obj\Debug\net10.0\refint\training schedule.dll
+D:\Gourny .Net\Learn c#\training schedule\training schedule\obj\Debug\net10.0\training schedule.pdb
+D:\Gourny .Net\Learn c#\training schedule\training schedule\obj\Debug\net10.0\training schedule.genruntimeconfig.cache
+D:\Gourny .Net\Learn c#\training schedule\training schedule\obj\Debug\net10.0\ref\training schedule.dll
+D:\Gourny .Net\Learn c#\training schedule\training schedule\bin\Debug\net10.0\TraceReloggerLib.dll
+D:\Gourny .Net\Learn c#\training schedule\training schedule\bin\Debug\net10.0\Dia2Lib.dll
+D:\Gourny .Net\Learn c#\training schedule\training schedule\bin\Debug\net10.0\x86\KernelTraceControl.dll
+D:\Gourny .Net\Learn c#\training schedule\training schedule\bin\Debug\net10.0\x86\KernelTraceControl.Win61.dll
+D:\Gourny .Net\Learn c#\training schedule\training schedule\bin\Debug\net10.0\x86\msdia140.dll
+D:\Gourny .Net\Learn c#\training schedule\training schedule\bin\Debug\net10.0\amd64\KernelTraceControl.dll
+D:\Gourny .Net\Learn c#\training schedule\training schedule\bin\Debug\net10.0\amd64\msdia140.dll
+D:\Gourny .Net\Learn c#\training schedule\training schedule\bin\Debug\net10.0\arm64\KernelTraceControl.dll
+D:\Gourny .Net\Learn c#\training schedule\training schedule\bin\Debug\net10.0\arm64\msdia140.dll
+D:\Gourny .Net\Learn c#\training schedule\training schedule\bin\Debug\net10.0\BenchmarkDotNet.dll
+D:\Gourny .Net\Learn c#\training schedule\training schedule\bin\Debug\net10.0\BenchmarkDotNet.Annotations.dll
+D:\Gourny .Net\Learn c#\training schedule\training schedule\bin\Debug\net10.0\CommandLine.dll
+D:\Gourny .Net\Learn c#\training schedule\training schedule\bin\Debug\net10.0\Gee.External.Capstone.dll
+D:\Gourny .Net\Learn c#\training schedule\training schedule\bin\Debug\net10.0\Iced.dll
+D:\Gourny .Net\Learn c#\training schedule\training schedule\bin\Debug\net10.0\Microsoft.CodeAnalysis.dll
+D:\Gourny .Net\Learn c#\training schedule\training schedule\bin\Debug\net10.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Gourny .Net\Learn c#\training schedule\training schedule\bin\Debug\net10.0\Microsoft.Diagnostics.NETCore.Client.dll
+D:\Gourny .Net\Learn c#\training schedule\training schedule\bin\Debug\net10.0\Microsoft.Diagnostics.Runtime.dll
+D:\Gourny .Net\Learn c#\training schedule\training schedule\bin\Debug\net10.0\Microsoft.Diagnostics.FastSerialization.dll
+D:\Gourny .Net\Learn c#\training schedule\training schedule\bin\Debug\net10.0\Microsoft.Diagnostics.Tracing.TraceEvent.dll
+D:\Gourny .Net\Learn c#\training schedule\training schedule\bin\Debug\net10.0\Microsoft.DotNet.PlatformAbstractions.dll
+D:\Gourny .Net\Learn c#\training schedule\training schedule\bin\Debug\net10.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Gourny .Net\Learn c#\training schedule\training schedule\bin\Debug\net10.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Gourny .Net\Learn c#\training schedule\training schedule\bin\Debug\net10.0\Microsoft.Extensions.Logging.dll
+D:\Gourny .Net\Learn c#\training schedule\training schedule\bin\Debug\net10.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Gourny .Net\Learn c#\training schedule\training schedule\bin\Debug\net10.0\Microsoft.Extensions.Options.dll
+D:\Gourny .Net\Learn c#\training schedule\training schedule\bin\Debug\net10.0\Microsoft.Extensions.Primitives.dll
+D:\Gourny .Net\Learn c#\training schedule\training schedule\bin\Debug\net10.0\Perfolizer.dll
+D:\Gourny .Net\Learn c#\training schedule\training schedule\bin\Debug\net10.0\Pragmastat.dll
+D:\Gourny .Net\Learn c#\training schedule\training schedule\bin\Debug\net10.0\System.CodeDom.dll
+D:\Gourny .Net\Learn c#\training schedule\training schedule\bin\Debug\net10.0\System.Management.dll
+D:\Gourny .Net\Learn c#\training schedule\training schedule\bin\Debug\net10.0\runtimes\win-x64\native\capstone.dll
+D:\Gourny .Net\Learn c#\training schedule\training schedule\bin\Debug\net10.0\runtimes\win\lib\net9.0\System.Management.dll
+D:\Gourny .Net\Learn c#\training schedule\training schedule\obj\Debug\net10.0\training schedule.csproj.AssemblyReference.cache
+D:\Gourny .Net\Learn c#\training schedule\training schedule\obj\Debug\net10.0\training.210FA14F.Up2Date
